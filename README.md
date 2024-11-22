@@ -1,5 +1,10 @@
 # React + Vite
 
+This project was developed in accordance with the requirements of module 9 of the driven course.
+
+Link to access no Vercel.
+https://zap-recall-sandy.vercel.app/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
